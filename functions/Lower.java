@@ -1,6 +1,6 @@
 package functions;
 
-import java.util.functions.Function;
+import java.util.function.Function;
 
 public class Lower implements Function<String, String> {
   public String apply(String s) {
